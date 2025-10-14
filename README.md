@@ -1,2 +1,2 @@
 # Sona-Kunwar
-This repositry documents my journey of learning core Python
+This repositry Documents my journey of learning core Python
